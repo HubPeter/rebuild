@@ -1,0 +1,6 @@
+rebuild tree from pre array and mid array
+including
+1.build a binary tree
+2.get pre and mid array
+3.rebuild
+
